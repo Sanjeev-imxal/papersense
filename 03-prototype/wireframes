@@ -1,1 +1,36 @@
+# Upload Interface Wireframe
+
+This screen allows educators to upload student answer sheets in PDF or text format. It includes:
+- Drag-and-drop upload zone
+- File preview thumbnails
+- Subject and rubric selection dropdowns
+- "Start Evaluation" button
+
+
+# Evaluation Dashboard Wireframe
+
+Displays AI-generated scores and feedback for each uploaded response. Key elements:
+- Student name and question list
+- Score per question
+- Feedback summary
+- Rubric alignment indicators
+- Export options (PDF/CSV)
+
+
+# Feedback Panel Wireframe
+
+Shows detailed feedback for each answer. Includes:
+- Highlighted strengths and weaknesses
+- Suggestions for improvement
+- Rubric-based comments
+- Toggle for educator override
+
+
+# Admin Settings Wireframe
+
+Admin panel for managing rubric templates, user roles, and system preferences. Features:
+- Rubric builder
+- Role-based access controls
+- Evaluation history logs
+- Integration settings (LMS, cloud storage)
 
